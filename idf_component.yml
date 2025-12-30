@@ -1,0 +1,6 @@
+name: SwiftGPIO
+version: "0.1.0"
+description: "ESP-IDF GPIO for swift"
+dependencies:
+  SwiftPlatform:
+    git: https://github.com/nixit22/esp-idf-swift-platform.git
